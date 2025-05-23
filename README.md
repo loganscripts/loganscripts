@@ -1,6 +1,5 @@
 ## 🪐hii! :3
-loganscripts.github.io
-he/they
+self taught python, js, html
 13
 
 <!--
