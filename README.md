@@ -1,4 +1,7 @@
-## Hi there 👋
+## 🪐hii! :3
+loganscripts.github.io
+he/they
+13
 
 <!--
 **loganscripts/loganscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
